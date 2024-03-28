@@ -1,0 +1,2 @@
+Add sender_email, receiver_email, passwordin  def send_email_notification() which is in app.py
+add gmail-user, gmail-password in config.json
