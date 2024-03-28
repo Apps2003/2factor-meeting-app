@@ -101,9 +101,9 @@ class LoginForm(FlaskForm):
 
 def send_email_notification():
     # Email configuration
-    sender_email = "21301066aparna@viva-technology.org"
-    receiver_email = "aparnarane2003@gmail.com"
-    password = "Aparna1066"
+    sender_email = "sender_email"
+    receiver_email = "receiver_email"
+    password = "password"
     
     # Create message
     message = MIMEMultipart()
